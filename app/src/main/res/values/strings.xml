@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">App_Android</string>
+    <string name="app_name">First Android App</string>
+    <string name="navigation_button">Press here</string>
+    <string name="central_text">Hello World!</string>
 </resources>
