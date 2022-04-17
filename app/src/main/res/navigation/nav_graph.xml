@@ -10,7 +10,7 @@
         android:name="com.example.app_android.SecondFragment"
         android:label="fragment_second"
         tools:layout="@layout/fragment_second" />
-    <fragment
+        <fragment
         android:id="@+id/firstFragment"
         android:name="com.example.app_android.FirstFragment"
         android:label="fragment_first"
